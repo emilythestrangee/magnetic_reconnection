@@ -36,6 +36,10 @@ by geomagnetic storms are the electrical power grid, spacecraft operations, user
 
 
 
+
+
+
+
 (notebook: aurora_visuals.ipynb)
 
 -Fetching data from the NOAA daily aurora forecast in order to create kml files that can be imported in Google Earth.
