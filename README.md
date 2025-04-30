@@ -1,4 +1,4 @@
-Bz Component Of IMF 
+## Bz Component Of IMF 
 
 When the interplanetary magnetic field has a large negative (southward) Bz component, interconnection between the interplanetary and terrestrial
 magnetic fields is greatly enhanced, with a resulting release of energy. Prolonged periods of southward magnetic fields often result in geomagnetic storms, with
@@ -15,14 +15,16 @@ of compass readings in polar regions, failure of electrical transmission lines, 
 long pipelines, anomalies in the operations of communications satellites, and potentially lethal
 doses of radiation for astronauts in interplanetary spacecrafts.
 
+------
 
-KP Index
+## KP Index
 
 The Kp index is used to characterize the magnitude of geomagnetic storms. Kp is an excellent indicator of disturbances in the Earth's magnetic field. The principal users affected
 by geomagnetic storms are the electrical power grid, spacecraft operations, users of radio signals that reflect off of or pass through the ionosphere, and observers of the aurora.
 
+-------
 
-Project Objectives
+## Project Objectives
 
 (notebook: magnetic_recon.ipynb)
 -Using Bz data recorded by ACE, DSCOVR and WIND spacecrafts to determine the frequency of magnetic reconnection occurences in a given year.
