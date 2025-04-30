@@ -35,9 +35,7 @@ by geomagnetic storms are the electrical power grid, spacecraft operations, user
 -Applying wavelet decomposition on each graph to carry out wave denoising (main purpose is to reduce unwanted noise and reconstruct the signal)
 
 
-
-
-
+-------
 
 
 (notebook: aurora_visuals.ipynb)
